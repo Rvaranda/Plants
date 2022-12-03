@@ -101,7 +101,7 @@ public class Main {
 			System.out.println(Main.plantSeeds[i] + "x " + types[i]);
 		}
 		
-		System.out.println("\nPressione Enter para voltar...");
+		System.out.println("\nPressione Enter para continuar...");
 		scan.nextLine();
 		scan.nextLine();
 	}
